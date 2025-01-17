@@ -79,3 +79,20 @@ body{
     color: black;
     margin-left: 15%;
 }
+.chocolatecake{
+    background-color: rgb(250, 227, 197);
+}
+.chocolatecake #chocolatecake{
+    border-radius: 15px;
+}
+.chococake-details{
+    width: 50%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+.chocolatecake h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+    margin-left: 15%;
+}
