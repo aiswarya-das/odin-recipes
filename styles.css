@@ -1,6 +1,6 @@
 body{
-    background-color: antiquewhite;
-    text-align: center;
+    background-color: rgb(250, 227, 197);
+    /* text-align: center; */
 }
 .home{
     /* background-color: aliceblue; */
@@ -10,6 +10,7 @@ body{
 .home h1{
     font-size: 50px;
     font-family: cursive;
+    text-align: center;
     color: black;
     margin: 20px;
 }
@@ -38,4 +39,26 @@ body{
     flex-direction: column;
     margin: 10px;
     padding: 20px;
+}
+.lasagna{
+    background-color: rgb(250, 227, 197);
+    margin: 0%;
+}
+.lasagna #lasagna{
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.lasagna-details{
+    /* background-color: cornflowerblue; */
+    width: 50%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+.lasagna h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+    margin-left: 25%;
 }
