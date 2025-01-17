@@ -42,7 +42,6 @@ body{
 }
 .lasagna{
     background-color: rgb(250, 227, 197);
-    margin: 0%;
 }
 .lasagna #lasagna{
     display: block;
@@ -61,4 +60,22 @@ body{
     font-family: cursive;
     color: black;
     margin-left: 25%;
+}
+.macandcheese{
+    background-color: rgb(250, 227, 197);
+}
+.macandcheese #macandcheese{
+    border-radius: 15px;
+}
+.macandcheese-details{
+  
+    width: 50%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+.macandcheese h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+    margin-left: 15%;
 }
